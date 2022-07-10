@@ -1,0 +1,2 @@
+# WebApp_Detectron2_Facemask_Project
+Implementation of detectron2 facemaskproject through webapp
